@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "65392586596",
+    "project_id": "fbtest-c2365",
+    "storage_bucket": "fbtest-c2365.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65392586596:android:ac08f17dbb12967d711471",
+        "android_client_info": {
+          "package_name": "com.example.fbtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABY30dFDcVMcYyKd2AynkbiXC-o5JTi-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65392586596:android:f6c1d978da6d2ec0711471",
+        "android_client_info": {
+          "package_name": "com.example.session4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABY30dFDcVMcYyKd2AynkbiXC-o5JTi-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

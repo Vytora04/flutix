@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyABY30dFDcVMcYyKd2AynkbiXC-o5JTi-o',
-    appId: '1:65392586596:android:ac08f17dbb12967d711471',
+    appId: '1:65392586596:android:f6c1d978da6d2ec0711471',
     messagingSenderId: '65392586596',
     projectId: 'fbtest-c2365',
     storageBucket: 'fbtest-c2365.firebasestorage.app',
@@ -59,25 +59,25 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyDddL0368FF7nlMgySO544EZRhDxNTUcWs',
-    appId: '1:65392586596:ios:01c259ccca069cc5711471',
+    appId: '1:65392586596:ios:91480fc0cc0dafff711471',
     messagingSenderId: '65392586596',
     projectId: 'fbtest-c2365',
     storageBucket: 'fbtest-c2365.firebasestorage.app',
-    iosBundleId: 'com.example.fbtest',
+    iosBundleId: 'com.example.session4',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyDddL0368FF7nlMgySO544EZRhDxNTUcWs',
-    appId: '1:65392586596:ios:01c259ccca069cc5711471',
+    appId: '1:65392586596:ios:91480fc0cc0dafff711471',
     messagingSenderId: '65392586596',
     projectId: 'fbtest-c2365',
     storageBucket: 'fbtest-c2365.firebasestorage.app',
-    iosBundleId: 'com.example.fbtest',
+    iosBundleId: 'com.example.session4',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
     apiKey: 'AIzaSyDSfLd_jq1Lp45ADckJdxR6srGohBPiBzo',
-    appId: '1:65392586596:web:f4ba17fc21d0da45711471',
+    appId: '1:65392586596:web:ac68c53f9451540e711471',
     messagingSenderId: '65392586596',
     projectId: 'fbtest-c2365',
     authDomain: 'fbtest-c2365.firebaseapp.com',
