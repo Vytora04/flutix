@@ -1,6 +1,6 @@
-# flutter training
+# session1
 
-A new Flutter project for UREEKA purposes.
+A new Flutter project.
 
 ## Getting Started
 
