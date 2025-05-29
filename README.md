@@ -1,6 +1,6 @@
-# flutix
+# flutter training
 
-A new Flutter project.
+A new Flutter project for UREEKA purposes.
 
 ## Getting Started
 
